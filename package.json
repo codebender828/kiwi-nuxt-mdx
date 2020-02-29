@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "@mdx-js/vue-loader": "^1.5.7",
+    "@nuxtjs/now-builder": "^0.17.0",
     "@nuxtjs/router": "^1.5.0",
     "@vue/babel-preset-jsx": "^1.1.2",
     "nuxt": "^2.0.0",
